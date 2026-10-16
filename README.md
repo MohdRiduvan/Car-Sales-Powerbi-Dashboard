@@ -1,6 +1,8 @@
 # Car-Sales-Powerbi-Dashboard
 Power BI used car sales dashboard | Power Query, DAX, data modeling
+
 By Mohamed Riduvan Azber
+
 ![Dashboard](images/dashboard.png)
 
 ## Problem
@@ -16,7 +18,7 @@ Understand what drives revenue in used car sales and how selling prices compare 
 - Designed an interactive dashboard with KPIs, trends, rankings and slicers
 
 ## Key insights
-- Revenue: $7.51bn across 548K units
+- Revenue: $7.51bn across 548000 units
 - 47% of cars sold above market value
 - Revenue peaked in Jan to Feb 2015
 - Ford led revenue, followed by Chevrolet and Nissan
