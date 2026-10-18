@@ -29,5 +29,5 @@ Understand what drives revenue in used car sales and how selling prices compare 
 Power BI, Power Query, DAX
 
 ## Files
-- [Presentation](Files/Car_Sales_Presentation.pdf)
+- [Presentation](Car_Sales_Presentation.pdf)
 - Car_Sales_Dashboard.pbix
