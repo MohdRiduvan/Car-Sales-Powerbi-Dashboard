@@ -3,7 +3,7 @@ Power BI used car sales dashboard | Power Query, DAX, data modeling
 
 By Mohamed Riduvan Azber
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Car_Dashboard.png)
 
 ## Problem
 Understand what drives revenue in used car sales and how selling prices compare to market value.
